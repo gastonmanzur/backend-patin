@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "nombre": "Gaston",
+    "apellido": "Manzur",
+    "email": "gastonmanzur@hotmail.com",
+    "password": "$2b$10$6257ci1CY6HUmMnSBV19ae4FTuNyAye3mItLy.DUDedY5VFCnbZE2",
+    "rol": "delegado"
+  }
+]
